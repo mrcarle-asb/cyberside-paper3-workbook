@@ -1,0 +1,14 @@
+{
+  "name": "CyberSide Paper 3",
+  "description": "Podcast companions for the IB CS 2026 Paper 3 case study — ethical hacking at MedTechPro Hospital",
+  "language": "en",
+  "search": true,
+  "author": {
+    "name": "Mr. Carle"
+  },
+  "colors": {
+    "brand": "#8b1a1a"
+  },
+  "basePath": "",
+  "allowDangerousHtml": true
+}
